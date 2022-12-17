@@ -10,7 +10,7 @@
 
 bool ya::Rock::m_IsMoveable = false;
 bool ya::Rock::m_IsPushable = false;
-bool ya::Rock::m_IsStop = false;
+bool ya::Rock::m_IsStop = true;
 
 ya::Rock::Rock()
 {
