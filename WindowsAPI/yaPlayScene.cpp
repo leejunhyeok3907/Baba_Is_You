@@ -76,7 +76,7 @@ namespace ya
 		SetToMap(2, 4, eGameObject::Text_Stop);//
 		SetToMap(3, 1, eGameObject::Text_Win);//
 		SetToMap(3, 2, eGameObject::Text_You);//
-		SetToMap(3, 3, eGameObject::Rock);
+		SetToMap(3, 3, eGameObject::Rock);//
 	}
 
 	void PlayScene::Exit()
